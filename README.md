@@ -1,2 +1,2 @@
 # IBM_Project
-Files for My IBM Project
+A Simple QAbot using IBM Watson
